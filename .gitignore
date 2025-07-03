@@ -1,0 +1,20 @@
+# Ignore system files
+*.log
+*.tmp
+.DS_Store
+ntuser.*
+
+# Ignore user directories
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+OneDrive/
+Pictures/
+Videos/
+
+# Ignore Python & Node.js dependencies
+__pycache__/
+venv/
+node_modules/
